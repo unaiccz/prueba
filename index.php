@@ -7,3 +7,4 @@ function main(){
 // delete_masco($conn,1);
 // update_mascota_contacto($conn,2,1);
 }
+main();
